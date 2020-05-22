@@ -5,12 +5,12 @@
 
 - [ ] Email/Password
 - [ ] Phone
-- [x] Google
+- [ ] Google
 - [ ] Facebook
 - [ ] Twitter
 - [ ] GitHub
 - [ ] Yahoo
-- [ ] Anonymous
+- [x] Anonymous
 - [ ] Microsoft
 
 
