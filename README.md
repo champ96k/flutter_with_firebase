@@ -10,7 +10,7 @@
 - [ ] Twitter
 - [ ] GitHub
 - [ ] Yahoo
-- [ ] Anonymous
+- [x] Anonymous
 - [ ] Microsoft
 
 
