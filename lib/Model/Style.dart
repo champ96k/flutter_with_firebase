@@ -8,9 +8,18 @@ abstract class ThemeText {
     letterSpacing: 1.15,
   );
 
-  static const TextStyle userText = TextStyle(
-    fontSize: 22.0, 
-    color: Colors.pink, 
+  static const TextStyle homeButton = TextStyle(
+    fontSize: 16.0,  
+    color: Colors.white, 
   );
+
+
+  static const TextStyle signinTitle = TextStyle(
+    fontSize: 27.0,  
+    fontWeight: FontWeight.w700,
+  );
+
+
+  
 
 }

@@ -1,4 +1,4 @@
-import 'package:fluter_firebase/Authentication/AuthHome.dart';
+import 'package:fluter_firebase/HomeScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,12 +10,12 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData.dark(),
       home: Scaffold(
-        body: AuthHome(), 
+        body: HomePage(), 
       ),
     );
   }
 }
+
 
 

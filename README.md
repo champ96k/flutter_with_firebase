@@ -1,7 +1,7 @@
 # Flutter With Firebase 🔥
 
 
-##      Firebase Authentication
+##  Firebase Authentication
 
 - [ ] Email/Password
 - [ ] Phone
@@ -12,6 +12,14 @@
 - [ ] Yahoo
 - [x] Anonymous
 - [ ] Microsoft
+
+
+
+
+##  Firebase Chat Application - Cloud Firestoe
+
+- [ ] Login using Email
+- [ ] Chat Funcationality
 
 
 
