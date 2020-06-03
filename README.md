@@ -5,7 +5,7 @@
 
 - [ ] Email/Password
 - [ ] Phone
-- [ ] Google
+- [x] Google
 - [ ] Facebook
 - [ ] Twitter
 - [ ] GitHub
