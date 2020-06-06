@@ -3,9 +3,9 @@
 
 ##  Firebase Authentication
 
-- [ ] Email/Password
+- [x] Email/Password
 - [ ] Phone
-- [ ] Google
+- [x] Google
 - [ ] Facebook
 - [ ] Twitter
 - [ ] GitHub
@@ -20,10 +20,10 @@
 
 - [x] UI Design
 - [x] Firebase Integration In Flutter App
-- [ ] Email Authentication
-- [ ] Cloud Firestore Functionality
-- [ ] Logout Functionality
-- [ ] Chat Funcationality
+- [x] Email Authentication
+- [x] Cloud Firestore Functionality
+- [x] Logout Functionality
+- [x] Chat Funcationality
 
 
 
