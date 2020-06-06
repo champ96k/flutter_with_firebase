@@ -19,7 +19,15 @@ abstract class ThemeText {
     fontWeight: FontWeight.w700,
   );
 
+  static const TextStyle chatHomeButton = TextStyle(
+    color: Colors.white,
+  );
 
+  static const TextStyle chatTitle = TextStyle(
+    color: Colors.black,
+    fontSize: 36.0,
+    fontWeight: FontWeight.w700,
+  );
   
 
 }

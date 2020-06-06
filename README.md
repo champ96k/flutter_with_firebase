@@ -5,7 +5,7 @@
 
 - [ ] Email/Password
 - [ ] Phone
-- [x] Google
+- [ ] Google
 - [ ] Facebook
 - [ ] Twitter
 - [ ] GitHub
@@ -18,8 +18,13 @@
 
 ##  Firebase Chat Application - Cloud Firestoe
 
-- [ ] Login using Email
+- [x] UI Design
+- [x] Firebase Integration In Flutter App
+- [ ] Email Authentication
+- [ ] Cloud Firestore Functionality
+- [ ] Logout Functionality
 - [ ] Chat Funcationality
+
 
 
 
