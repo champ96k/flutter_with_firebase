@@ -25,6 +25,7 @@
 - [x] Logout Functionality
 - [x] Chat Funcationality
 
+![Chat App](https://i.imgur.com/KAEuhTg.png)
 
 
 
